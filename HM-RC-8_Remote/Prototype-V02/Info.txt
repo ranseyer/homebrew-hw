@@ -1,0 +1,15 @@
+V0.2
+Zwischen der Spannungsversorgung und den Pins an der schmalen Seite des Arduino wird es einen Kurzschluss beim direkten Verlöten geben.
+Daher siehe Foto 1 Kapton-Tape einlegen. (Oder Isolierband und die Spannungsversorgung nur kurz löten)
+
+Siehe Bild 2 auch alternative Buttons möglich
+
+Siehe Bild 3 ohne die Platikanteile der Stiftleiste direkt verlöten weil da ca 2mm Höhe spart.
+
+Button2 funktioniert nicht. Fix: Zwischen Button 3 und Button2 am Platinenrand die beiden Pins verbinden (GND von Button 3 holen).
+
+
+Weitere Todos:
+-Anschluss Spannungsversorung ändern
+-genutzte Pins markieren
+-...
