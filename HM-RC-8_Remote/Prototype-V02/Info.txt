@@ -6,7 +6,7 @@ Siehe Bild 2 auch alternative Buttons möglich
 
 Siehe Bild 3 ohne die Platikanteile der Stiftleiste direkt verlöten weil da ca 2mm Höhe spart.
 
-Button2 funktioniert nicht. Fix: Zwischen Button 3 und Button2 am Platinenrand die beiden Pins verbinden (GND von Button 3 holen).
+Button2 funktioniert nicht. Fix: Zwischen Button 4 und Button2 am Platinenrand die beiden Pins verbinden (GND von Button 4 holen).
 
 
 Weitere Todos:
