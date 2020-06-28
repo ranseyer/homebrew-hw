@@ -1,0 +1,25 @@
+Relais (5V Version): https://de.aliexpress.com/wholesale?catId=0&SearchText=+HF41F
+
+
+// we use a Pro Mini
+// Arduino pin for the LED
+#define LED_PIN 13
+// Arduino pin for the config button
+// B0 == PIN 8 on Pro Mini
+#define CONFIG_BUTTON_PIN 5
+
+//Jal A1:On A0:Dir
+#define ON_RELAY_PIN 15
+#define DIR_RELAY_PIN 14
+
+//Mark: A2:on A3:Dir
+#define ON_RELAY2_PIN 16
+#define DIR_RELAY2_PIN 17
+
+//Jal
+#define UP_BUTTON_PIN 7
+#define DOWN_BUTTON_PIN 6
+
+//Mark
+#define UP_BUTTON2_PIN 8
+#define DOWN_BUTTON2_PIN 9
